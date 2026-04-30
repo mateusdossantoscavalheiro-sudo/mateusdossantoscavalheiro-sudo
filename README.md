@@ -31,11 +31,10 @@ Aqui está um panorama das minhas ferramentas de trabalho e meu nível de profic
 
 | Área | Tecnologia | Nível de Proficiência |
 | :--- | :--- | :--- |
-| ⚙️ **Backend** | Python <br> Java | 🟢🟢🟢⚪⚪ (Intermediário) <br> 🟢🟢🟢⚪⚪ (Intermediário) |
-| 🎨 **Frontend** | HTML5 <br> CSS3 <br> JavaScript | 🟢🟢⚪⚪⚪ (Básico) <br> 🟢🟢⚪⚪⚪ (Básico) <br> 🟢🟢⚪⚪⚪ (Básico) |
-| 🏭 **Softwares Industriais** | CadeSimu <br> Clic02 <br> CISCO Packet Tracer <br> Automation Studio | 🟢🟢🟢🟢🟢 (Avançado) <br> 🟢🟢🟢🟢⚪ (Proficiente) <br> 🟢🟢🟢⚪⚪ (Intermediário) <br> 🟢🟢🟢⚪⚪ (Intermediário) |
-| 📡 **Protocolos & Dados** | MQTT <br> PostgreSQL | 🟢🟢🟢🟢⚪ (Proficiente) <br> 🟢🟢🟢🟢⚪ (Proficiente) |
-
+| ⚙️ **Backend** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"> Python <br> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="20"> Java | 🟢🟢🟢⚪⚪ (Intermediário) <br> 🟢🟢🟢⚪⚪ (Intermediário) |
+| 🎨 **Frontend** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"> HTML5 <br> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20"> CSS3 <br> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"> JavaScript | 🟢🟢⚪⚪⚪ (Básico) <br> 🟢🟢⚪⚪⚪ (Básico) <br> 🟢🟢⚪⚪⚪ (Básico) |
+| 🏭 **Softwares Industriais** | <img src="https://img.shields.io/badge/Simulation-444444?style=flat-square&logo=circuit-board&logoColor=white" height="20"> CadeSimu <br> <img src="https://img.shields.io/badge/PLC-444444?style=flat-square&logo=cpu&logoColor=white" height="20"> Clic02 <br> <img src="https://img.shields.io/badge/Cisco-00BCEB?style=flat-square&logo=cisco&logoColor=white" height="20"> CISCO Packet Tracer <br> <img src="https://img.shields.io/badge/Automation-444444?style=flat-square&logo=robot&logoColor=white" height="20"> Automation Studio | 🟢🟢🟢🟢🟢 (Avançado) <br> 🟢🟢🟢🟢⚪ (Proficiente) <br> 🟢🟢🟢⚪⚪ (Intermediário) <br> 🟢🟢🟢⚪⚪ (Intermediário) |
+| 📡 **Protocolos & Dados** | <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" height="20"> MQTT <br> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="20"> PostgreSQL | 🟢🟢🟢🟢⚪ (Proficiente) <br> 🟢🟢🟢🟢⚪ (Proficiente) |
 ---
 
 ### 🌐 Contatos & Portfólio
