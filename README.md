@@ -11,7 +11,7 @@
 </table>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHF6emxjYzZjOTJuZGtiNGZzbGNpMTcybTZkYXFhM2w4YnN3c3hveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="100%">
+  <img width="839" height="472" alt="c4" src="https://github.com/user-attachments/assets/18a05459-500f-41f4-95e3-07245a870016" />
 </p>
 
 ---
