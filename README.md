@@ -1,10 +1,11 @@
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td>
-      <h1>Olá, eu sou o Mateus Cavalheiro! 👋</h1>
-      <p>Estudante de <b>Técnico em Cibersistemas para Automação</b>. Unindo a robustez da <b>Elétrica Industrial</b> com a inteligência do software.</p>
+    <td width="80%">
+      <h1>Mateus Cavalheiro</h1>
+      <h2>Técnico em Cibersistemas para Automação & Desenvolvedor</h2>
+      <p>Focado em criar a ponte entre a infraestrutura de hardware e o mundo digital. Exploro tecnologias voltadas para <b>IIoT, sistemas SCADA e arquiteturas distribuídas</b>, unindo a robustez da Elétrica Industrial com a inteligência do software para construir soluções modernas e escaláveis.</p>
     </td>
-    <td>
+    <td align="center" width="20%">
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVqamk4MHZ6OGYyNHl5bjAwYmwwZHcxOWttdm8zZnN6b2RxN2RtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H9cyg4ol88KPOWIk3j/giphy.gif" width="120px">
     </td>
   </tr>
@@ -26,12 +27,14 @@ Estudante de **Técnico em Cibersistemas para Automação**, busco unir minha ex
 
 ### 🛠️ Tecnologias e Habilidades
 
-| Área | Tecnologias |
-| :--- | :--- |
-| **Backend** | Python, Java |
-| **Frontend** | HTML5, CSS3, JavaScript (Básico) |
-| **Industrial/Hardware** | Elétrica Industrial e Residencial, ESP32, Automação |
-| **Protocolos/Outros** | MQTT, WebSockets, PostgreSQL img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> |
+Aqui está um panorama das minhas ferramentas de trabalho e meu nível de proficiência em cada uma delas:
+
+| Área | Tecnologia | Nível de Proficiência |
+| :--- | :--- | :--- |
+| ⚙️ **Backend** | Python <br> Java | 🟢🟢🟢⚪⚪ (Intermediário) <br> 🟢🟢🟢⚪⚪ (Intermediário) |
+| 🎨 **Frontend** | HTML5 <br> CSS3 <br> JavaScript | 🟢🟢⚪⚪⚪ (Básico) <br> 🟢🟢⚪⚪⚪ (Básico) <br> 🟢🟢⚪⚪⚪ (Básico) |
+| 🏭 **Softwares Industriais** | CadeSimu <br> Clic02 <br> CISCO Packet Tracer <br> Automation Studio | 🟢🟢🟢🟢🟢 (Avançado) <br> 🟢🟢🟢🟢⚪ (Proficiente) <br> 🟢🟢🟢⚪⚪ (Intermediário) <br> 🟢🟢🟢⚪⚪ (Intermediário) |
+| 📡 **Protocolos & Dados** | MQTT <br> PostgreSQL | 🟢🟢🟢🟢⚪ (Proficiente) <br> 🟢🟢🟢🟢⚪ (Proficiente) |
 
 ---
 
@@ -47,11 +50,13 @@ Sinta-se à vontade para entrar em contato ou conhecer meus projetos:
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusdossantoscavalheiro-sudo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdossantoscavalheiro-sudo&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/mateusdossantoscavalheiro-sudo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusdossantoscavalheiro-sudo&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdossantoscavalheiro-sudo&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+  </a>
 </div>
 
 ---
 <p align="center">
-  "Transformando sinais elétricos em soluções inteligentes."
+  <i>"Transformando sinais elétricos em soluções inteligentes."</i>
 </p>
