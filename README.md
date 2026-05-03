@@ -50,7 +50,6 @@ Sinta-se à vontade para entrar em contato ou conhecer meus projetos:
 ### 📊 Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/mateusdossantoscavalheiro-sudo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusdossantoscavalheiro-sudo&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdossantoscavalheiro-sudo&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
   </a>
 </div>
