@@ -46,15 +46,6 @@ Sinta-se à vontade para entrar em contato ou conhecer meus projetos:
 * 📧 **E-mail:** [Mande uma mensagem](mailto:mateusdossantoscavalheiro@gmail.com)
 
 ---
-
-### 📊 Estatísticas do GitHub
-<div align="center">
-  <a href="https://github.com/mateusdossantoscavalheiro-sudo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdossantoscavalheiro-sudo&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
-  </a>
-</div>
-
----
 <p align="center">
   <i>"Transformando sinais elétricos em soluções inteligentes."</i>
 </p>
